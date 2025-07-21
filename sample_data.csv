@@ -1,0 +1,11 @@
+CustomerID,Full Name,Street,City,State,Score,Quantity,Unit Price,DateColumn
+1,John Doe,123 Elm St,Springfield,IL,85.0,2,10.0,2023-01-15
+2,Jane Smith,456 Oak St,Springfield,IL,45.0,1,15.0,2023-01-20
+3,Bob Johnson,789 Pine St,Springfield,IL,,3,20.0,2023-01-25
+4,Alice Brown,101 Maple St,Springfield,IL,70.0,1,25.0,2023-01-30
+5,Charlie Davis,202 Birch St,Springfield,IL,90.0,4,5.0,2023-02-05
+6,,303 Cedar St,Springfield,IL,60.0,2,12.0,2023-02-10
+7,Eve White,404 Walnut St,Springfield,IL,30.0,1,30.0,2023-02-15
+8,Frank Black,505 Cherry St,Springfield,IL,75.0,5,8.0,2023-02-20
+9,Grace Green,606 Ash St,Springfield,IL,50.0,3,18.0,2023-02-25
+10,Hank Blue,707 Fir St,Springfield,IL,95.0,2,22.0,2023-03-01
